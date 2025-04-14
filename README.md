@@ -1,6 +1,7 @@
 # Film Forecast
 Film Forecast is a weather app that recommends movies based on the current weather conditions in your city. Simply input your city, and the app will display the current weather forecast along with movie recommendations tailored to the weather.
 
+🔗 [Visit the App](https://fayeks.github.io/FilmForecast/)
 
 ## Features
 * City Search: Input your city to get real-time weather information.
